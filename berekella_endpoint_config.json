@@ -1,0 +1,10 @@
+{
+  "tm": {
+    "servers": [
+      {
+        "http": "https://berekella.com/1/",
+        "ws": "wss://berekella.com/1/"
+      }
+    ]
+  }
+}
