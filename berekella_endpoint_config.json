@@ -2,8 +2,8 @@
   "tm": {
     "servers": [
       {
-        "http": "https://berekella.com/",
-        "ws": "wss://berekella.com/"
+        "http": "https://berekella.com",
+        "ws": "wss://berekella.com"
       }
     ]
   }
